@@ -1,0 +1,18 @@
+.app_social {
+    z-index: 4;
+    .icon {
+        background-color: #fff;
+        margin-top: 17px;
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+        border-radius: 50%;
+    }
+    svg {
+        border-radius: 50%;
+        display: block;
+        color: #000000bf;
+        font-size: 20px;
+        background-color: transparent;
+    }
+}
